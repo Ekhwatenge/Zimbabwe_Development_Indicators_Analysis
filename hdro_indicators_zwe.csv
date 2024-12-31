@@ -1,0 +1,878 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.251,1990
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.11,1991
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,100.669,1992
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,99.349,1993
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,98.295,1994
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,97.706,1995
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,96.313,1996
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,97.426,1997
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,98.39,1998
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,100.369,1999
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,100.942,2000
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.83,2001
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.211,2002
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,103.219,2003
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,103.553,2004
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,106.648,2005
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,104.788,2006
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,103.97,2007
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,107.481,2008
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,109.8,2009
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,110.566,2010
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,110.219,2011
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,109.796,2012
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,107.574,2013
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,105.952,2014
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.084,2015
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,100.884,2016
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,98.265,2017
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,98.507,2018
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,97.354,2019
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,96.18,2020
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,94.312,2021
+ZWE,Zimbabwe,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,92.566,2022
+ZWE,Zimbabwe,assets,Assets (%),MPI,Multidimensional Poverty Index,7.582,2019
+ZWE,Zimbabwe,child_mortality,Child mortality (%),MPI,Multidimensional Poverty Index,4.864,2019
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.538,1990
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.494,1991
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.571,1992
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.486,1993
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.602,1994
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.367,1995
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.334,1996
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.224,1997
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.224,1998
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.342,1999
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.168,2000
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,1.050,2001
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.993,2002
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.879,2003
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.775,2004
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.875,2005
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.841,2006
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.790,2007
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.615,2008
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.651,2009
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.682,2010
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.796,2011
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.848,2012
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.861,2013
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.862,2014
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.866,2015
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.729,2016
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.630,2017
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.712,2018
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.637,2019
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.501,2020
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.525,2021
+ZWE,Zimbabwe,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.525,2022
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.371,2011
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.708,2012
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.193,2013
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.700,2014
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.359,2015
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.099,2016
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.186,2017
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,28.942,2018
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.722,2019
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.558,2020
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.510,2021
+ZWE,Zimbabwe,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.631,2022
+ZWE,Zimbabwe,cooking_fuel,Cooking fuel (%),MPI,Multidimensional Poverty Index,12.720,2019
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.088,1990
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.287,1991
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.151,1992
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.957,1993
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.188,1994
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.559,1995
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.232,1996
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.247,1997
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.822,1998
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.088,1999
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.878,2000
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.163,2001
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.342,2002
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.691,2003
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.671,2004
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.667,2005
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.133,2006
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.655,2007
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.429,2008
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.542,2009
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.455,2010
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.594,2011
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.916,2012
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.068,2013
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.484,2014
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.654,2015
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.463,2016
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.449,2017
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.418,2018
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.25,2019
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.625,2020
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.639,2021
+ZWE,Zimbabwe,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.636,2022
+ZWE,Zimbabwe,drinking_water,Drinking water (%),MPI,Multidimensional Poverty Index,10.012,2019
+ZWE,Zimbabwe,electricity,Electricity (%),MPI,Multidimensional Poverty Index,9.778,2019
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.530,1990
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.931,1991
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.543,1992
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.644,1993
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.746,1994
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.848,1995
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.949,1996
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.051,1997
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.153,1998
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.254,1999
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.418,2000
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.919,2001
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.529,2002
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.289,2003
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.361,2004
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.434,2005
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.507,2006
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.579,2007
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.652,2008
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.724,2009
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.797,2010
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.870,2011
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.942,2012
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.805,2013
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.836,2014
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.868,2015
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.899,2016
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.931,2017
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.962,2018
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.994,2019
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.026,2020
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.026,2021
+ZWE,Zimbabwe,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.026,2022
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.572,1990
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.680,1991
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.789,1992
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.900,1993
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.010,1994
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.121,1995
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.231,1996
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.342,1997
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.453,1998
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.563,1999
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.776,2000
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.288,2001
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.971,2002
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.797,2003
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.874,2004
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.950,2005
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.027,2006
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.103,2007
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.180,2008
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.256,2009
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.333,2010
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.409,2011
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.486,2012
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.391,2013
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.434,2014
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.477,2015
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.520,2016
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.564,2017
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.607,2018
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.651,2019
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.695,2020
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.695,2021
+ZWE,Zimbabwe,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.695,2022
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.180,1990
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.273,1991
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.366,1992
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.461,1993
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.555,1994
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.650,1995
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.744,1996
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.838,1997
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.933,1998
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.027,1999
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.131,2000
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.622,2001
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.150,2002
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.841,2003
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.909,2004
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.977,2005
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.044,2006
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.112,2007
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.180,2008
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.248,2009
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.315,2010
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.383,2011
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.451,2012
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.260,2013
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.276,2014
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.293,2015
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.309,2016
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.326,2017
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.343,2018
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.359,2019
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.376,2020
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.376,2021
+ZWE,Zimbabwe,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.376,2022
+ZWE,Zimbabwe,gdi_group,GDI Group,GDI,Gender Development Index,3,2022
+ZWE,Zimbabwe,gii_rank,GII Rank,GII,Gender Inequality Index,132,2022
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1212.091,1994
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1246.745,1995
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1369.324,1996
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1318.707,1997
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1289.790,1998
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1222.635,1999
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1146.750,2000
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1183.149,2001
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1120.896,2002
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1031.250,2003
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,938.611,2004
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,945.148,2005
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,905.668,2006
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,880.646,2007
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,750.524,2008
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1146.262,2009
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1443.459,2010
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1590.397,2011
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1596.035,2012
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1797.487,2013
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1830.703,2014
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1787.081,2015
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1746.050,2016
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1787.902,2017
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2005.318,2018
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1804.461,2019
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1643.892,2020
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1963.726,2021
+ZWE,Zimbabwe,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1761.980,2022
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1938.080,1994
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1845.856,1995
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2020.713,1996
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2024.454,1997
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1960.219,1998
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1935.694,1999
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1738.434,2000
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1763.764,2001
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1645.025,2002
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1491.261,2003
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1468.354,2004
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1342.486,2005
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1282.764,2006
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1244.915,2007
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1059.242,2008
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1614.995,2009
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,1903.015,2010
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2091.657,2011
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2625.322,2012
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2494.838,2013
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2353.000,2014
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2325.525,2015
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2298.218,2016
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2382.677,2017
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2708.860,2018
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2551.748,2019
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2262.627,2020
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2150.174,2021
+ZWE,Zimbabwe,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,2433.258,2022
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1594.410,1990
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1639.410,1991
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1474.270,1992
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1488.866,1993
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1557.751,1994
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1531.689,1995
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1679.139,1996
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1654.388,1997
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1608.663,1998
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1561.673,1999
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1427.807,2000
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1458.711,2001
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1369.482,2002
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1249.238,2003
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1189.307,2004
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1132.816,2005
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1083.624,2006
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1052.459,2007
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,895.949,2008
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1366.798,2009
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1659.431,2010
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1825.681,2011
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2078.954,2012
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2124.835,2013
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2076.033,2014
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2040.150,2015
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2005.718,2016
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2067.753,2017
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2336.519,2018
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2156.432,2019
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,1935.506,2020
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2051.668,2021
+ZWE,Zimbabwe,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2078.918,2022
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.427,1994
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.422,1995
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.421,1996
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.417,1997
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.413,1998
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.403,1999
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.397,2000
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.381,2001
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.397,2002
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.381,2003
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.387,2004
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.390,2005
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.394,2006
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.394,2007
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.393,2008
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.430,2009
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.460,2010
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.484,2011
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.497,2012
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.512,2013
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.519,2014
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.524,2015
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.528,2016
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.534,2017
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.544,2018
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.539,2019
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.535,2020
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.538,2021
+ZWE,Zimbabwe,hdi_f,HDI female,GDI,Gender Development Index,0.532,2022
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.486,1994
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.475,1995
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.476,1996
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.472,1997
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.466,1998
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.459,1999
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.455,2000
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.452,2001
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.457,2002
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.447,2003
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.451,2004
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.449,2005
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.450,2006
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.452,2007
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.447,2008
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.479,2009
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.502,2010
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.519,2011
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.545,2012
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.552,2013
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.559,2014
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.566,2015
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.567,2016
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.568,2017
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.582,2018
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.580,2019
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.572,2020
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.560,2021
+ZWE,Zimbabwe,hdi_m,HDI male,GDI,Gender Development Index,0.568,2022
+ZWE,Zimbabwe,hdi_rank,HDI Rank,HDI,Human Development Index,159,2022
+ZWE,Zimbabwe,housing,Housing (%),MPI,Multidimensional Poverty Index,8.263,2019
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,17.825,2010
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,17.825,2011
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,17.825,2012
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,17.825,2013
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,17.395,2014
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.806,2015
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.806,2016
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.806,2017
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,16.806,2018
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.605,2019
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.605,2020
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.605,2021
+ZWE,Zimbabwe,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,14.605,2022
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,44.648,2011
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,44.648,2012
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,44.648,2013
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,44.648,2014
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,44.648,2015
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,44.648,2016
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,45.344,2017
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,45.344,2018
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,52.888,2019
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,52.888,2020
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,52.888,2021
+ZWE,Zimbabwe,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,52.888,2022
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,32.708,2010
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,31.639,2011
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,29.650,2012
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,28.106,2013
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,27.058,2014
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,26.623,2015
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,25.842,2016
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,25.407,2017
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.677,2018
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.672,2019
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.181,2020
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.039,2021
+ZWE,Zimbabwe,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,24.402,2022
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.426,1990
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.091,1991
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.435,1992
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,54.426,1993
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.588,1994
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.531,1995
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,48.955,1996
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.993,1997
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,46.819,1998
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.206,1999
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,44.686,2000
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,41.957,2001
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,44.565,2002
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,43.393,2003
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,44.502,2004
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,44.768,2005
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.364,2006
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.61,2007
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,46.723,2008
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,48.063,2009
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.652,2010
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,53.347,2011
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,55.626,2012
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,57.458,2013
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.846,2014
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.591,2015
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.306,2016
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.709,2017
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.414,2018
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.292,2019
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.124,2020
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.253,2021
+ZWE,Zimbabwe,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.391,2022
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.539,1990
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.908,1991
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.28,1992
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,57.15,1993
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,55.288,1994
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,53.203,1995
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,51.245,1996
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.366,1997
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.311,1998
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.459,1999
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,46.476,2000
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,42.487,2001
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,45.792,2002
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,43.956,2003
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,45.49,2004
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,45.592,2005
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,46.394,2006
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,46.336,2007
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.774,2008
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.394,2009
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.24,2010
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,55.438,2011
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,57.723,2012
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.533,2013
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.844,2014
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.637,2015
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.416,2016
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.956,2017
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.594,2018
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.661,2019
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.862,2020
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.045,2021
+ZWE,Zimbabwe,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.094,2022
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.389,1990
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,55.325,1991
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.659,1992
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.795,1993
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,49.987,1994
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,47.978,1995
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.73,1996
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,45.707,1997
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.449,1998
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,43.068,1999
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,42.941,2000
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,41.473,2001
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,43.334,2002
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,42.855,2003
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,43.499,2004
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,43.925,2005
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.291,2006
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.863,2007
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,45.61,2008
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.644,2009
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,48.948,2010
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.103,2011
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.355,2012
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,55.186,2013
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.637,2014
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.32,2015
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.956,2016
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.208,2017
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.968,2018
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.644,2019
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.129,2020
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.232,2021
+ZWE,Zimbabwe,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.428,2022
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,69.14,1995
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,69.14,1996
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,67.57,1997
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,66.04,1998
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,64.5,1999
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,67.09,2000
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,69.68,2001
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,72.28,2002
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,74.87,2003
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.46,2004
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.46,2005
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.46,2006
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.46,2007
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.47,2008
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.47,2009
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.47,2010
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.47,2011
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.1,2012
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,69.18,2013
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,80.25,2014
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,76.34,2015
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,72.43,2016
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,68.51,2017
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,64.6,2018
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.69,2019
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.35,2020
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.01,2021
+ZWE,Zimbabwe,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.01,2022
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.79,1995
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.79,1996
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.39,1997
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.99,1998
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.59,1999
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.53,2000
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.47,2001
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,84.42,2002
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.36,2003
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.3,2004
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.27,2005
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.24,2006
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.21,2007
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.18,2008
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.15,2009
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.12,2010
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.09,2011
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.76,2012
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,83.11,2013
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.45,2014
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.94,2015
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,82.42,2016
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.91,2017
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.39,2018
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.88,2019
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.74,2020
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.59,2021
+ZWE,Zimbabwe,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.59,2022
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.271,2011
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.609,2012
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.015,2013
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.612,2014
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.331,2015
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,29.982,2016
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.254,2017
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.142,2018
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.857,2019
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.671,2020
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.605,2021
+ZWE,Zimbabwe,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.727,2022
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.937,1990
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.559,1991
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.020,1992
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.048,1993
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.298,1994
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.103,1995
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.882,1996
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.858,1997
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.892,1998
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.472,1999
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.382,2000
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.237,2001
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.893,2002
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.471,2003
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.067,2004
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.235,2005
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.223,2006
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.895,2007
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.885,2008
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.248,2009
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.040,2010
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.305,2011
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.868,2012
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.053,2013
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.794,2014
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.202,2015
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.631,2016
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.828,2017
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.901,2018
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.104,2019
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.427,2020
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.681,2021
+ZWE,Zimbabwe,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.743,2022
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,337.550,1990
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,346.731,1991
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,349.567,1992
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,346.980,1993
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,352.078,1994
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,363.995,1995
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,361.603,1996
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,323.441,1997
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,321.536,1998
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,384.570,1999
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,387.750,2000
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,589.174,2001
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,442.715,2002
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,533.899,2003
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,488.087,2004
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,533.073,2005
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,558.164,2006
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,656.421,2007
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,684.827,2008
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,669.888,2009
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,618.330,2010
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,562.121,2011
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,527.616,2012
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,495.257,2013
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,440.852,2014
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,408.119,2015
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,399.758,2016
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,366.381,2017
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,358.504,2018
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,393.176,2019
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,356.759,2020
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,356.759,2021
+ZWE,Zimbabwe,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,356.759,2022
+ZWE,Zimbabwe,mpi_rank,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.110,2019
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.022,1990
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.167,1991
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.317,1992
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.470,1993
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.624,1994
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.778,1995
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.932,1996
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.085,1997
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.239,1998
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.393,1999
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.547,2000
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.700,2001
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.854,2002
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.956,2003
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.057,2004
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.159,2005
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.260,2006
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.362,2007
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.463,2008
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.565,2009
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.666,2010
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.768,2011
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.869,2012
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.991,2013
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.112,2014
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.389,2015
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.425,2016
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.462,2017
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.575,2018
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.687,2019
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.808,2020
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.808,2021
+ZWE,Zimbabwe,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.808,2022
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.204,1990
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.345,1991
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.490,1992
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.640,1993
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.790,1994
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.941,1995
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.091,1996
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.241,1997
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.391,1998
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.542,1999
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.692,2000
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.842,2001
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.992,2002
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.144,2003
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.295,2004
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.447,2005
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.598,2006
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.749,2007
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.901,2008
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.052,2009
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.204,2010
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.355,2011
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.507,2012
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.501,2013
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.495,2014
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.702,2015
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.882,2016
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.062,2017
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.066,2018
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.070,2019
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.191,2020
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.191,2021
+ZWE,Zimbabwe,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.191,2022
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.939,1990
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.087,1991
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.238,1992
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.394,1993
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.549,1994
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.704,1995
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.859,1996
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.014,1997
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.169,1998
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.324,1999
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.479,2000
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.635,2001
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.790,2002
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.838,2003
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.886,2004
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.934,2005
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.982,2006
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.030,2007
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.078,2008
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.127,2009
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.175,2010
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.223,2011
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.271,2012
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.567,2013
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.863,2014
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.265,2015
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.091,2016
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.916,2017
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.189,2018
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.463,2019
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.591,2020
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.591,2021
+ZWE,Zimbabwe,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.591,2022
+ZWE,Zimbabwe,nutrition,Nutrition (%),MPI,Multidimensional Poverty Index,18.696,2019
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1990
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1991
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1992
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1993
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1994
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1995
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1996
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1997
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14.667,1998
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,14,1999
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,9.333,2000
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10,2001
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10,2002
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10,2003
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,10,2004
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,20.833,2005
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.222,2006
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.222,2007
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,18.152,2008
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.891,2009
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.891,2010
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.891,2011
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.891,2012
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.143,2013
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.143,2014
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.143,2015
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,35.143,2016
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,36.152,2017
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.286,2018
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.571,2019
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.571,2020
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,34.571,2021
+ZWE,Zimbabwe,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.626,2022
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1990
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1991
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1992
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1993
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1994
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1995
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1996
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1997
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,85.333,1998
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,86,1999
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90.667,2000
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90,2001
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90,2002
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90,2003
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,90,2004
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,79.167,2005
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.778,2006
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.778,2007
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,81.848,2008
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.109,2009
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.109,2010
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.109,2011
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.109,2012
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.857,2013
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.857,2014
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.857,2015
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,64.857,2016
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,63.848,2017
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.714,2018
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.429,2019
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.429,2020
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,65.429,2021
+ZWE,Zimbabwe,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.374,2022
+ZWE,Zimbabwe,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,0,2022
+ZWE,Zimbabwe,sanitation,Sanitation (%),MPI,Multidimensional Poverty Index,10.813,2019
+ZWE,Zimbabwe,school_attendance,School attendance (%),MPI,Multidimensional Poverty Index,11.903,2019
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,13.092,1990
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.719,1991
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.548,1992
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,18.605,1993
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,20.661,1994
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,22.717,1995
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.774,1996
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,26.830,1997
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,28.886,1998
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.943,1999
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,32.999,2000
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,35.055,2001
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,37.112,2002
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,38.929,2003
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.746,2004
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.563,2005
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,44.380,2006
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,46.198,2007
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,48.015,2008
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,49.832,2009
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,51.649,2010
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.466,2011
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,55.283,2012
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.881,2013
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,52.479,2014
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,47.109,2015
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,53.450,2016
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,59.792,2017
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,60.982,2018
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,62.197,2019
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.435,2020
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.435,2021
+ZWE,Zimbabwe,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.435,2022
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,28.613,1990
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,30.615,1991
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.757,1992
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,35.049,1993
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.342,1994
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,39.634,1995
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,41.926,1996
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.218,1997
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,46.511,1998
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,48.803,1999
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,51.095,2000
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,53.387,2001
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.679,2002
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.793,2003
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,57.907,2004
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,59.021,2005
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,60.135,2006
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.249,2007
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,62.363,2008
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,63.477,2009
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,64.590,2010
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,65.704,2011
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,66.818,2012
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,66.612,2013
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,66.406,2014
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,61.636,2015
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,66.209,2016
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,70.783,2017
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,71.707,2018
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.643,2019
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.591,2020
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.591,2021
+ZWE,Zimbabwe,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,73.591,2022
+ZWE,Zimbabwe,years_of_schooling,Years of schooling (%),MPI,Multidimensional Poverty Index,5.369,2019
